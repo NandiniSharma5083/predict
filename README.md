@@ -12,7 +12,16 @@ Inference / prediction script
 
 Simple demo example
 
-🧾 Project Structure ml-ai-demo/ │ ├── data/ # Dataset or sample data ├── models/ # Saved trained models ├── notebooks/ # Jupyter notebooks for experiments ├── src/ │ ├── train.py # Training script │ ├── predict.py # Inference script │ └── utils.py # Helper functions │ ├── requirements.txt └── README.md ⚙️ Installation
+🧾 Project Structure ml-ai-demo/ │ 
+├── data/ # Dataset or sample data
+├── models/ # Saved trained models
+├── notebooks/ # Jupyter notebooks for experiments
+├── src/ │
+├── train.py # Training script │
+├── predict.py # Inference script │
+└── utils.py # Helper functions │
+├── requirements.txt
+└── README.md ⚙️ Installation
 
 Clone the repository:
 
